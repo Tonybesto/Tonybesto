@@ -33,3 +33,6 @@ I'm a Cloud/DevOps Engineer. I am passionate about Cloud engineering, DevOps cul
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 
 ## 🤝 Let's connect
+<a href="https://www.linkedin.com/in/akojianthony/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
+ <a href="mailto:akojianthony@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
+</p>
