@@ -1,10 +1,10 @@
 ### ☁️ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 <hr>
 <h1>I am Akoji Anthony</h1>
-I'm a Cloud/DevOps Engineer. I am passionate about Cloud engineering, DevOps culture, and Infrastructure Automation.
+I'm a SRE/DevOps Engineer. I am passionate about Site Reliability Engineering, DevOps culture, and Infrastructure Automation.
 
 - 🌱 I’m currently working on projects
-- 👯 I’m looking to collaborate on: DevOps and Cloud Engineering.
+- 👯 I’m looking to collaborate on: DevOps, SRE and Cloud Engineering.
 - ⚡ Fun fact: I love music 🎧🎧
 
 ## 🔧Technologies and Tools
